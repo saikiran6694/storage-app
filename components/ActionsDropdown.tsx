@@ -5,7 +5,6 @@ import React, { useState } from "react";
 import {
   Dialog,
   DialogContent,
-  DialogDescription,
   DialogFooter,
   DialogHeader,
   DialogTitle,
@@ -88,7 +87,7 @@ const ActionsDropdown = ({ file }: { file: Models.Document }) => {
   const renderDialogContent = () => {
     if (!action) return null;
 
-    const { icon, label, value } = action;
+    const { label, value } = action;
 
     return (
       <DialogContent className="shad-dialog button">
