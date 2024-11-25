@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <br />
     <img src="https://i.ibb.co/wR9G2k3/Readme-Thumbnail.png" alt="ProjectBanner">
   <br />
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
   </div>
 
-<h3 align="center">Storage and File Sharing Platform</h3>
+<h3 align="left">Storage and File Sharing Platform</h3>
 
 ## <a name="introduction">🤖 Introduction</a>
 
